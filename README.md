@@ -1,18 +1,6 @@
-@@ -1,5 +1,8 @@
-### 嗨there
-
-
-[！[ ToulthG的github统计信息 ]（https://github-readme-stats.vercel.app/api?username=ToulthG）]（https://github.com/anuraghazra/github-readme-stats）
-
-<！-
-** ToulthG / ToulthG **是一个_special_✨存储库，因为其`README.md`（此文件）出现在您的GitHub个人资料中。
-这里有一些想法可以帮助您入门：
--🔭我目前正在研究...
--🌱我正在学习...
--👯我正在寻求合作...
--🤔我正在寻求有关...的帮助
--💬问我关于...
--📫如何联络我：...
--😄代词：...
--⚡有趣的事实：...
-->
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
