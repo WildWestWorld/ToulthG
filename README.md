@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+</div>
