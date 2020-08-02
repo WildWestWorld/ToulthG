@@ -7,9 +7,9 @@
 
 [![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
 [![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/FengirkG)<br>
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
