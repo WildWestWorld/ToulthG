@@ -29,5 +29,8 @@ Here are some ideas to get you started:
 
 ⏳ 2020年度进度 { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.54 %
 <p align="center"> 
-    <i>inspired by <a href="https://github.com/liununu/novatorem">liununu/novatorem</a></i>
+    <i>inspired by <a href="https://github.com/liununu">liununu</a></i>
+</p>
+<p align="center"> 
+    <i>inspired by <a href="https://github.com/novatorem">novatorem</a></i>
 </p>
