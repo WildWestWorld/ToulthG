@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/FengirkG)<br>
 
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.54 %
+⏳ 2020年度进度 { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.54 %
