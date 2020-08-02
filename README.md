@@ -28,11 +28,9 @@ Here are some ideas to get you started:
 [![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/FengirkG)<br>
 
 ⏳ 2020年度进度 { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.54 %
-
-<a href="mailto: gxf1034512354@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-
+                    &nbsp;
+<a href="mailto:gxf1034512354@gmail.com">
+   <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
 <p align="center"> 
     <i>inspired by <a href="https://github.com/liununu">liununu</a></i>
 </p>
