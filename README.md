@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 -->
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
+[![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/FengirkG)<br>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
 </div>
-
-[![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/FengirkG)<br>
-                   
+                
 <p align="center"> 
     <i>Come from <a href="https://github.com/liununu">liununu</a></i>
 </p>
