@@ -30,25 +30,25 @@ Here are some ideas to get you started:
 ⏳ 2020年度进度 { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.54 %
                    
 <p align="center"> 
-    <i>inspired by <a href="https://github.com/liununu">liununu</a></i>
+    <i>Form <a href="https://github.com/liununu">liununu</a></i>
 </p>
 <p align="center"> 
-    <i>inspired by <a href="https://github.com/novatorem">novatorem</a></i>
+    <i>Form <a href="https://github.com/novatorem">novatorem</a></i>
 </p>
 
 <p align="center">
-    <i>inspired by <a href="https://github.com/omidnikrah">omidnikrah</a></i>
+    <i>Form <a href="https://github.com/omidnikrah">omidnikrah</a></i>
 </p>
 
 <p align="center">
-    <i>inspired by <a href="https://github.com/jatin2003">jatin2003</a></i>
+    <i>Form <a href="https://github.com/jatin2003">jatin2003</a></i>
 </p>
 
 <p align="center">
-    <i>inspired by <a href="https://github.com/anuraghazra">anuraghazra</a></i>
+    <i>Form <a href="https://github.com/anuraghazra">anuraghazra</a></i>
 </p>
 
 <p align="center">
-    <i>inspired by <a href="https://github.com/TheDudeThatCode">TheDudeThatCode</a></i>
+    <i>From <a href="https://github.com/TheDudeThatCode">TheDudeThatCode</a></i>
 </p>
 
