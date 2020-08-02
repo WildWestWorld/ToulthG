@@ -25,4 +25,4 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
 </div>
 
-[![Spotify](https://FengirkG.vercel.app/api/spotify-playing)](https://open.spotify.com/user/FengirkG)<br>
+[![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/omnitenebris)<br>
