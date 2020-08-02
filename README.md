@@ -31,6 +31,15 @@ Here are some ideas to get you started:
 <p align="center"> 
     <i>inspired by <a href="https://github.com/liununu">liununu</a></i>
 </p>
+
 <p align="center"> 
     <i>inspired by <a href="https://github.com/novatorem">novatorem</a></i>
+</p>
+
+<p align="center">
+    <i>inspired by <a href="https://github.com/omidnikrah">omidnikrah</a></i>
+</p>
+
+<p align="center">
+    <i>inspired by <a href="https://github.com/jatin2003">jatin2003</a></i>
 </p>
