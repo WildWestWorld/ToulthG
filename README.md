@@ -1,6 +1,6 @@
 ### Hello World！ &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px">
 <p align="center"> 
-  Visitor count<br>
+  来到此页面的次数<br>
   <img src="https://profile-counter.glitch.me/ToulthG/count.svg" />
 </p>
 
