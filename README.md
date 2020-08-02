@@ -14,7 +14,11 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
 </div>
-                
+     
+<p align="center">
+    <i>inspired by <a href="https://github.com/jatin2003">jatin2003</a></i>
+</p>
+           
 <p align="center"> 
     <i>inspired by <a href="https://github.com/novatorem">novatorem</a></i>
 </p>
@@ -23,9 +27,6 @@
     <i>inspired by <a href="https://github.com/omidnikrah">omidnikrah</a></i>
 </p>
 
-<p align="center">
-    <i>inspired by <a href="https://github.com/jatin2003">jatin2003</a></i>
-</p>
 
 <p align="center">
     <i>inspired by <a href="https://github.com/anuraghazra">anuraghazra</a></i>
