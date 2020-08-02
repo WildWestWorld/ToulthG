@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 </div>
 
 [![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/FengirkG)<br>
-
-⏳ 2020年度进度 { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.54 %
                    
 <p align="center"> 
     <i>Come from <a href="https://github.com/liununu">liununu</a></i>
