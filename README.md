@@ -43,3 +43,12 @@ Here are some ideas to get you started:
 <p align="center">
     <i>inspired by <a href="https://github.com/jatin2003">jatin2003</a></i>
 </p>
+
+<p align="center">
+    <i>inspired by <a href="https://github.com/anuraghazra">anuraghazra</a></i>
+</p>
+
+<p align="center">
+    <i>inspired by <a href="https://github.com/TheDudeThatCode">TheDudeThatCode</a></i>
+</p>
+
