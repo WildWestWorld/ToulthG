@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="mailto:gxf1034512354@gmail.com">
    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
 <a href="https://twitter.com/TheDudeThatCode">
-   <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+   <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/></a>
                     &nbsp;
 <p align="center"> 
     <i>inspired by <a href="https://github.com/liununu">liununu</a></i>
