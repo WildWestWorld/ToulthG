@@ -16,25 +16,22 @@
 </div>
                 
 <p align="center"> 
-    <i>Come from <a href="https://github.com/liununu">liununu</a></i>
-</p>
-<p align="center"> 
-    <i>Come from <a href="https://github.com/novatorem">novatorem</a></i>
+    <i>inspired by <a href="https://github.com/novatorem">novatorem</a></i>
 </p>
 
 <p align="center">
-    <i>Come from <a href="https://github.com/omidnikrah">omidnikrah</a></i>
+    <i>inspired by <a href="https://github.com/omidnikrah">omidnikrah</a></i>
 </p>
 
 <p align="center">
-    <i>Come from <a href="https://github.com/jatin2003">jatin2003</a></i>
+    <i>inspired by <a href="https://github.com/jatin2003">jatin2003</a></i>
 </p>
 
 <p align="center">
-    <i>Come from <a href="https://github.com/anuraghazra">anuraghazra</a></i>
+    <i>inspired by <a href="https://github.com/anuraghazra">anuraghazra</a></i>
 </p>
 
 <p align="center">
-    <i>Come from <a href="https://github.com/TheDudeThatCode">TheDudeThatCode</a></i>
+    <i>inspired by <a href="https://github.com/TheDudeThatCode">TheDudeThatCode</a></i>
 </p>
 
