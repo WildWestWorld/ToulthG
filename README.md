@@ -5,7 +5,7 @@
 </p>
 
 
-[![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
