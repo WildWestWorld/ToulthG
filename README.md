@@ -16,21 +16,3 @@
 ### Get in touch    
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:gxf1034512354@gmail.com) 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/GToulth)
-
-<p align="center">
-    <i>inspired by <a href="https://github.com/jatin2003">jatin2003</a></i>
-</p>
-
-<p align="center">
-    <i>inspired by <a href="https://github.com/omidnikrah">omidnikrah</a></i>
-</p>
-
-
-<p align="center">
-    <i>inspired by <a href="https://github.com/anuraghazra">anuraghazra</a></i>
-</p>
-
-<p align="center">
-    <i>inspired by <a href="https://github.com/TheDudeThatCode">TheDudeThatCode</a></i>
-</p>
-
