@@ -9,10 +9,6 @@
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
-</div>
-
 ### Get in touch    
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:gxf1034512354@gmail.com) 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/GToulth)
