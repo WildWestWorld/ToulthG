@@ -2,7 +2,7 @@
 [![](https://count.getloli.com/get/@ToulthG?theme=rule34)](https://count.getloli.com)
 
 
-[![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Get in touch    
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:gxf1034512354@gmail.com) 
