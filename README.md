@@ -10,5 +10,3 @@
 ### 保持联系   
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:gxf1034512354@gmail.com) 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/GToulth)
-
-<img align="left" alt="Steam" width="130" hight="100" src="https://github.com/FengirkG/FengirkG/blob/master/assets/icons/steam.png" />
