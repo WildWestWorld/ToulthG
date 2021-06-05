@@ -1,9 +1,8 @@
 ### Hello World！ &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px">
 [![](https://count.getloli.com/get/@ToulthG?theme=rule34)](https://count.getloli.com)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&redirect=true)
 ![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
-![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&redirect=true)
-
 [![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=onedark)](https://github.com/ToulthG/github-profile-trophy)
