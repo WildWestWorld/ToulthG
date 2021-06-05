@@ -9,3 +9,5 @@
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/GToulth)
 
 <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
+
+[![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=onedark)](https://github.com/ToulthG/github-profile-trophy)
