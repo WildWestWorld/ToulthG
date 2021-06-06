@@ -24,4 +24,5 @@
 ### 保持联系   
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:gxf1034512354@gmail.com) 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/GToulth)
-
+[![Steam](https://img.shields.io/badge/Steam-1101981821?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/FengirkG/)
+[![CSGO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/id/FengirkG/)
