@@ -5,7 +5,20 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&redirect=true)
 ![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
 [![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
+
+<details><summary>Anilist✨✨✨</summary>
+  <td align="center">
+    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.svg">
+    <details><summary>Manga version</summary>
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.manga.svg">
+    </details>
+    <details open><summary>Favorites characters version</summary>
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</details>
+
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=onedark)](https://github.com/ToulthG/github-profile-trophy)
 
 ### 保持联系   
