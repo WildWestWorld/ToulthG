@@ -12,7 +12,7 @@
 </div>
   
 ![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
-[<img align="right" width="58%" src="https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=omni">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="54%" src="https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=omni">](https://github.com/anuraghazra/github-readme-stats)
 
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=onedark)](https://github.com/ToulthG/github-profile-trophy)
 <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
