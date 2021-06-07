@@ -1,7 +1,7 @@
 ### Hello World！ &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
 
-### 📮 Abou tme
+### 📮 About me
 
 <div align="center">
     <a href="https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
