@@ -2,7 +2,15 @@
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F76CB2&width=470&lines=This+is+FengirkG;I+like+learning%E3%80%81listen+to+music+and+play+CSGO)](https://git.io/typing-svg)
 
-[![](https://count.getloli.com/get/@ToulthG?theme=rule34)](https://count.getloli.com)
+### 📮 Aboutme
+
+<div align="center">
+  <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34">
+</div>
+  
+  
+  
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&redirect=true)
 ![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
