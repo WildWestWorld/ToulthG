@@ -11,11 +11,12 @@
   <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34">
 </div>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&redirect=true)
 ![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
 [![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-<details><summary>Anilist✨✨✨</summary>
+[![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=onedark)](https://github.com/ToulthG/github-profile-trophy)
+
+  <details><summary>Anilist✨✨✨</summary>
   <td align="center">
     <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.svg">
     <details><summary>Manga version</summary>
@@ -27,5 +28,3 @@
     <img width="900" height="1" alt="">
   </td>
 </details>
-
-[![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=onedark)](https://github.com/ToulthG/github-profile-trophy)
