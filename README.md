@@ -15,15 +15,13 @@
 [![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=onedark)](https://github.com/ToulthG/github-profile-trophy)
-
+<img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
+### 🎈 Anilist
   <details><summary>Anilist✨✨✨</summary>
   <td align="center">
     <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.svg">
     <details><summary>Manga version</summary>
       <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.manga.svg">
-    </details>
-    <details open><summary>Favorites characters version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
     </details>
     <img width="900" height="1" alt="">
   </td>
