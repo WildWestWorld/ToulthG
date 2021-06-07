@@ -1,12 +1,12 @@
 ### Hello World！ &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
-
+---
 ![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
 [<img align="right" width="54%" src="https://github-readme-stats.vercel.app/api?username=ToulthG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">](https://github.com/anuraghazra/github-readme-stats)
 
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=dracula)](https://github.com/ToulthG/github-profile-trophy)
 <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
-
+---
 ### 📮 About me
 
 <div align="center">
