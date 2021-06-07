@@ -9,8 +9,7 @@
 ---
 ### 📮 About me
 <div>
-    <div align="left">
-        <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
+        <img align="left" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
         </div>
 <div align="right">
     <a href="https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
