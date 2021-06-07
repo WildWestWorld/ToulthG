@@ -11,8 +11,7 @@
   <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34">
 </div>
   
-![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
-[![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)[![ToulthG's github stats](https://github-readme-stats.vercel.app/api?username=ToulthG&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=onedark)](https://github.com/ToulthG/github-profile-trophy)
 <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
