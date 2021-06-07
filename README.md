@@ -18,16 +18,4 @@
     <a href="mailto:gxf1034512354@gmail.com"><img align="center" src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff"><br>
   <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34">
 </div>
-        </div>     
-        
-        
-  ### 🎈 Anilist
-  <details><summary>Anilist✨✨✨</summary>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.svg">
-    <details><summary>Manga version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.manga.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</details>
+        </div>
