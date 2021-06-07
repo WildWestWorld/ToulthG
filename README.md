@@ -9,7 +9,7 @@
 ---
 ### 📮 About me
 
-<div align="center">
+<div align="right">
     <a href="https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
     <a href="https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Steam-1101981821?style=for-the-badge&logo=steam&logoColor=white"><br>
     <a href="https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
