@@ -6,7 +6,7 @@
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=dracula)](https://github.com/ToulthG/github-profile-trophy)
 
 ---
-### 📮 About me
+### 📮 About me  &nbsp;<img alt="耳语..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
 <div>
         <img align="left" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
         </div>
