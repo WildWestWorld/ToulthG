@@ -1,6 +1,6 @@
 ### 🌟 Hello World！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=850&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=850&height=300)](https://github.com/Akshay090/svg-banners)
  ---   
 ### 🌤 Dev Stats <img alt="耳语..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
 
@@ -38,3 +38,5 @@
   <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34">
 </div>
 </div>
+     
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=花里胡哨のREADME🌈&width=900&height=200)](https://github.com/Akshay090/svg-banners)
