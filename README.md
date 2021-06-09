@@ -8,9 +8,7 @@
 ![Snake animation](https://github.com/ToulthG/ToulthG/blob/master/github-contribution-grid-snake.svg)
 ---
 ### 📮 About me  &nbsp;<img alt="耳语..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
-<div>
-        <img align="left" src="https://github.com/lowlighter/lowlighter/blob/master/github-contribution-grid-snake.svg">
-        </div>
+<div><img align="left" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg"></div>
 <div align="right">
     <a href="https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
     <a href="https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Steam-1101981821?style=for-the-badge&logo=steam&logoColor=white"><br>
