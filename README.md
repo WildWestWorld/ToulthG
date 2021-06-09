@@ -1,6 +1,6 @@
 ### Hello World！ &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
-
+![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToulthG&theme=monokai)
 ![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
 [<img src="https://github-readme-stats.vercel.app/api?username=ToulthG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">](https://github.com/anuraghazra/github-readme-stats)
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=dracula)](https://github.com/ToulthG/github-profile-trophy)
