@@ -1,7 +1,6 @@
 ### 🌟 Hello World！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
-   
-    
+ ---   
 ### 🌤 Dev Stats:
 
 <details open>
