@@ -2,6 +2,7 @@
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToulthG&theme=monokai)
 ![Travis](https://steam-stat.vercel.app/api?profileName=FengirkG)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ToulthG&theme=dracula)](https://git.io/streak-stats)
 [<img src="https://github-readme-stats.vercel.app/api?username=ToulthG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">](https://github.com/anuraghazra/github-readme-stats)
 [![ToulthG](https://github-profile-trophy.vercel.app/?username=ToulthG&theme=dracula)](https://github.com/ToulthG/github-profile-trophy)
 ![Snake animation](https://github.com/ToulthG/ToulthG/blob/master/github-contribution-grid-snake.svg)
