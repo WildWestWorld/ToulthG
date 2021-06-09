@@ -1,10 +1,10 @@
 ### 🌟 Hello World！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
  ---   
-### 🌤 Dev Stats:
+### 🌤 Dev Stats <img alt="耳语..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
 
 <details>
- <summary>  <b>🌈 Github Stats</b>: </summary>
+ <summary><b>🌈 Github Stats:</b></summary>
 <br>
 <p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api?username=ToulthG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
@@ -27,7 +27,7 @@
     
 ---
 
-### 📮 About me  &nbsp;<img alt="耳语..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
+### 📮 About me
 <div><img align="left" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg"></div>
 <div align="right">
     <a href="https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
