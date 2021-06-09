@@ -15,7 +15,7 @@
     
     
 <details>	
-  <summary><b>⚡ Github Streaks:</b></summary>
+  <summary><b>⚡ My Steam:</b></summary>
   <img src="https://steam-stat.vercel.app/api?profileName=FengirkG" />
 </details>
 
