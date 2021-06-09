@@ -1,7 +1,17 @@
 ### 🌟 Hello World！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=850&height=300)](https://github.com/Akshay090/svg-banners)
+ 
+ 
+### 📮 About me
+ <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34"></a><br>
+    <a href = "https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
+    <a href = "mailto:gxf1034512354@gmail.com"><img align="center" src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff">
+    <a href = "https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Steam-1101981821?style=for-the-badge&logo=steam&logoColor=white">
+    <a href = "https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
+
  ---   
+
 ### 🌤 Dev Stats <img alt="耳语..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
 
 <details>
@@ -16,8 +26,9 @@
     
     
 <details>	
-  <summary><b>⚡ My Steam:</b></summary>
-  <img src="https://steam-stat.vercel.app/api?profileName=FengirkG" />
+  <summary><b>⚡ My Like:</b></summary>
+  <img src = "https://steam-stat.vercel.app/api?profileName=FengirkG" />
+  <img src = "https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
 </details>
 
 <details>	
@@ -28,15 +39,5 @@
     
 ---
 
-### 📮 About me
-<div><img align="left" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg"></div>
-<div align="right">
-    <a href="https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
-    <a href="https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Steam-1101981821?style=for-the-badge&logo=steam&logoColor=white"><br>
-    <a href="https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
-    <a href="mailto:gxf1034512354@gmail.com"><img align="center" src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff"><br>
-  <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34">
-</div>
-</div>
      
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=花里胡哨のREADME🌈&width=900&height=200)](https://github.com/Akshay090/svg-banners)
