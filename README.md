@@ -10,8 +10,6 @@
     <a href = "https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Steam-1101981821?style=for-the-badge&logo=steam&logoColor=white">
     <a href = "https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
 
- ---   
-
 ### 🌤 Dev Stats <img alt="耳语..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
 
 <details>
