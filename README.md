@@ -33,7 +33,6 @@
   <summary><b>🚀 Github Other:</b></summary>
   <img src = "https://github-profile-trophy.vercel.app/?username=ToulthG&theme=dracula">
   <img src = "https://github.com/ToulthG/ToulthG/blob/master/github-contribution-grid-snake.svg">
-  <img class="sml-4x3" alt="Lakeside Animation html css svg gradient landscape animation" width="500" height="400" data-id="1941754" data-optimize-for-bots="true" skip_resize="true" srcset="https://cdn.dribbble.com/users/13449/screenshots/1941754/lakeside2.gif 300w, https://cdn.dribbble.com/users/13449/screenshots/1941754/lakeside2.gif 400w" src="https://cdn.dribbble.com/users/13449/screenshots/1941754/lakeside2.gif" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" preload="true">
 </details>
     
 ---
