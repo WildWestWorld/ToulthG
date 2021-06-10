@@ -19,7 +19,7 @@
 <details>
  <summary><b>🌈 Github Stats:</b></summary>
 <br>
-<p align = "center">
+<p align = "left">
  <img src = "https://github-readme-stats.vercel.app/api?username=ToulthG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
  <img src = "http://github-readme-streak-stats.herokuapp.com?user=ToulthG&theme=dracula">
  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToulthG&theme=monokai">
