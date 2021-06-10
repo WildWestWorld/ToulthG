@@ -20,7 +20,7 @@ jobs:
           user: ToulthG
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Stockholm
+          config_timezone: China/Beijing
           
           # ... other options
           plugin_languages: yes
