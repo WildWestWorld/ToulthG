@@ -2,6 +2,11 @@
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=850&height=300)](https://github.com/Akshay090/svg-banners)
  
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default" />
+</a>
+ <br>
+ 
 ### 📮 About me
  <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34"></a><br>
     <a href = "https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
@@ -20,9 +25,6 @@
  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToulthG&theme=monokai">
 </p>
 </details>
-     <p align="right">
-  <img src = "https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default" width='300px' >
-  </P>
     
 <details>	
   <summary><b>⚡ My Like:</b></summary>
@@ -35,8 +37,5 @@
   <img src = "https://github-profile-trophy.vercel.app/?username=ToulthG&theme=dracula">
   <img src = "https://github.com/ToulthG/ToulthG/blob/master/github-contribution-grid-snake.svg">
 </details>
-    
----
-
-     
+  
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=花里胡哨のREADME🌈&width=900&height=200)](https://github.com/Akshay090/svg-banners)
