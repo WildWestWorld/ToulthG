@@ -3,7 +3,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=850&height=300)](https://github.com/Akshay090/svg-banners)
  
   <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default" />
+    src="https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default " width='300px' />
 </a>
  <br>
  
