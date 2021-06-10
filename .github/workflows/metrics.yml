@@ -10,14 +10,14 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: voldien/metrics@latest
+      - uses: ToulthG/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          user: voldien
+          user: ToulthG
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
@@ -33,5 +33,5 @@ jobs:
           plugin_anilist_sections: reading, characters  # Display only favorites and characters sections
           plugin_anilist_limit: 2                         # Limit to 2 entry per section (characters section excluded)
           plugin_anilist_shuffle: yes                     # Shuffle data for more varied outputs
-          plugin_anilist_user: voldie                     # Use same username as GitHub login
+          plugin_anilist_user: FengirkG                     # Use same username as GitHub login
           plugin_anilist_limit_characters: 5              # Limit to 22 characters in characters section
