@@ -4,6 +4,7 @@
  
  
 ### 📮 About me
+ <img class="sml-4x3" alt="Lakeside Animation html css svg gradient landscape animation" width="500" height="300" data-id="1941754" data-optimize-for-bots="true" skip_resize="true" srcset="https://cdn.dribbble.com/users/13449/screenshots/1941754/lakeside2.gif 300w, https://cdn.dribbble.com/users/13449/screenshots/1941754/lakeside2.gif 400w" src="https://cdn.dribbble.com/users/13449/screenshots/1941754/lakeside2.gif" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" preload="true">
  <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34"></a><br>
     <a href = "https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
     <a href = "mailto:gxf1034512354@gmail.com"><img align="center" src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff">
