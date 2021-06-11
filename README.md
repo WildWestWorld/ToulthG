@@ -29,7 +29,6 @@
 <details>	
   <summary><b>⚡ My Like:</b></summary>
   <img src = "https://steam-stat.vercel.app/api?profileName=FengirkG" />
-  <img src = "https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
 </details>
 
 <details>	
