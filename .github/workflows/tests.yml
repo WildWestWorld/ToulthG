@@ -33,14 +33,14 @@
     plugin_anilist_sections: watching, reading
 
 - name: Anilist plugin (characters section)
-  uses: lowlighter/metrics@latest
+  uses: ToulthG/metrics@latest
   with:
     token: NOT_NEEDED
     plugin_anilist: yes
     plugin_anilist_sections: characters
 
 - name: Anilist plugin (additional options)
-  uses: lowlighter/metrics@latest
+  uses: ToulthG/metrics@latest
   with:
     token: NOT_NEEDED
     plugin_anilist: yes
@@ -50,7 +50,7 @@
     plugin_anilist_user: user
 
 - name: Anilist plugin (complete)
-  uses: lowlighter/metrics@latest
+  uses: ToulthG/metrics@latest
   with:
     token: NOT_NEEDED
     plugin_anilist: yes
