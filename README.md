@@ -29,6 +29,7 @@
 <details>	
   <summary><b>⚡ My Like:</b></summary>
   <img src = "https://steam-stat.vercel.app/api?profileName=FengirkG" />
+  <img src = "https://github.com/ToulthG/ToulthG/blob/master/github-metrics.svg"/>
 </details>
 
 <details>	
@@ -39,4 +40,3 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
      
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=花里胡哨のREADME🌈&width=900&height=200)](https://github.com/Akshay090/svg-banners)
-![Metrics](https://github.com/ToulthG/ToulthG/blob/master/github-metrics.svg)
