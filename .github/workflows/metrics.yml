@@ -14,7 +14,6 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga             # Display both animes and mangas
