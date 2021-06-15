@@ -27,7 +27,7 @@
 </details>
     
 <details>	
-  <summary><b>⚡ My Like:</b></summary>
+  <summary><b>⚡ Things I like:</b></summary>
   <img src = "https://steam-stat.vercel.app/api?profileName=FengirkG" />
   <img src = "https://github.com/ToulthG/ToulthG/blob/master/github-metrics.svg"/>
 </details>
