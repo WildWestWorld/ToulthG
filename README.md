@@ -20,9 +20,9 @@
  <summary><b>🌈 Github Stats:</b></summary>
 <br>
 <p align = "left">
- <img src = "https://github-readme-stats.vercel.app/api?username=ToulthG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
- <img src = "http://github-readme-streak-stats.herokuapp.com?user=ToulthG&theme=dracula">
- <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToulthG&theme=monokai">
+ <img src = "https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ToulthG">
+ <img src = "http://github-readme-streak-stats.herokuapp.com?user=ToulthG&theme=ayu-light&date_format=%5BY%20%5DM%20j">
+ <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToulthG&theme=nord_bright">
 </p>
 </details>
     
