@@ -1,6 +1,6 @@
 ### 🌟 Hello World！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=850&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=%20Open%20Source&width=850&height=200)](https://github.com/Akshay090/svg-banners)
  
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default " width='300px' />
