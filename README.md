@@ -1,11 +1,14 @@
-### 🌟 Hello World！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> <a id="a">
+### Hello World！<img style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
+<br>
+<img height="190px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ToulthG" /><img height="190" src="http://github-readme-streak-stats.herokuapp.com?user=ToulthG&theme=ayu-light&date_format=%5BY%20%5DM%20j" /></a>
  
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=hmo8ubn8do5rudqpeb6ie1794&cover_image=true&theme=default " width='300px' />
-</a>
- <br>
- 
+  
+
+
+
+
+
 ### 📮 About me
  <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34"></a><br>
     <a href = "https://twitter.com/GToulth"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff">
@@ -13,17 +16,7 @@
     <a href = "https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Steam-1101981821?style=for-the-badge&logo=steam&logoColor=white">
     <a href = "https://steamcommunity.com/id/FengirkG/"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
 
-### 🌤 Dev Stats <img alt="耳语..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
- 
-<details>
- <summary><b>🌈 Github Stats:</b></summary>
-<br>
-<p align = "left">
- <img src = "https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ToulthG">
- <img src = "http://github-readme-streak-stats.herokuapp.com?user=ToulthG&theme=ayu-light&date_format=%5BY%20%5DM%20j">
- <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToulthG&theme=nord_bright">
-</p>
-</details>
+### 🌤 Dev Stats
     
 <details>	
   <summary><b>⚡ Things I like:</b></summary>
