@@ -1,11 +1,11 @@
-name: Metrics
+
+name: Metrics (examples)
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  push: {branches: ["main"]}
+  schedule:
+    - cron: "0 8 * * *"
   workflow_dispatch:
-    jobs: github-metrics
+jobs:
+  github-metrics-examples:
     runs-on: ubuntu-latest
     steps:
       - uses: ToulthG/metrics@latest
