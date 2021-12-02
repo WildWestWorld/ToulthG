@@ -1,4 +1,4 @@
-<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34" width=250></a>[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/hmo8ubn8do5rudqpeb6ie1794)
+<a href="https://count.getloli.com"><img align="left" src="https://count.getloli.com/get/@ToulthG?theme=rule34" width=250></a>[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/hmo8ubn8do5rudqpeb6ie1794)
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=250&text=Goodday!&fontAlign=80&fontAlignY=40&color=gradient">
 | Stats | Steam |
 | ---------- | --------- |
