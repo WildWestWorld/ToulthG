@@ -1,6 +1,6 @@
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34"></a>
 ![a](https://capsule-render.vercel.app/api?type=waving&height=190&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=ToulthG&column=8&theme=dracula&no-frame=true"/>
+<img width=1500 src="https://github-profile-trophy.vercel.app/?username=ToulthG&column=8&theme=dracula&no-frame=true"/>
 <br>
 <img height="165px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ToulthG" />&nbsp;&nbsp;<img height="165px" src="http://github-readme-streak-stats.herokuapp.com?user=ToulthG&theme=ayu-light&date_format=%5BY%20%5DM%20j" /></a>
 <br>
