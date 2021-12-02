@@ -1,13 +1,7 @@
 ### Hello World！<img style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
-![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
+![a](https://capsule-render.vercel.app/api?type=waving&height=190&text=GoodDay!&fontAlign=80&fontAlignY=40&color=gradient)
 <br>
 <img height="165px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ToulthG" />&nbsp;&nbsp;<img height="165px" src="http://github-readme-streak-stats.herokuapp.com?user=ToulthG&theme=ayu-light&date_format=%5BY%20%5DM%20j" /></a>
- 
-  
-
-
-
-
 
 ### 📮 About me
  <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@ToulthG?theme=rule34"></a><br>
