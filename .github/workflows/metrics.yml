@@ -5,9 +5,7 @@ on:
   # Lines below let you run workflow manually and on each commit
   push: {branches: ["main"]}
   workflow_dispatch:
- jobs: 
- github-metrics: 
- runs-on: ubuntu-latest
+    jobs: github-metrics
     runs-on: ubuntu-latest
     steps:
       - uses: ToulthG/metrics@latest
